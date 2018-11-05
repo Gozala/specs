@@ -15,6 +15,7 @@ Looking to learn about how Beaker works? Start here:
    - [dat.json](https://github.com/datprotocol/dat.json). The dat.json standard manifest file. Used to describe a dat.
    - [Dat types](./dat-types.md). Standard dat "type" values and their effects in Beaker.
    - [index.json](./index-json.md). The index.json folder manifest file. Used to describe a folder.
+   - [Dat Service](./dat-service.md). API for background services.
 
 ## Directory
 
